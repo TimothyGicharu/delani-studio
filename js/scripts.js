@@ -36,6 +36,6 @@ $(document).ready(function(){
     });
 
     $(".btn").click(function(){
-        alert(`We have received your message. Thank you for reaching out to us!!!!`);
+        alert("Hi. We have received your message. Thank you for reaching out to us!")
     })
 });
