@@ -34,4 +34,8 @@ $(document).ready(function(){
         $("#product p").slideToggle().hide();
         $("#product-image").slideToggle();
     });
+
+    $(".btn").click(function(){
+        alert(`We have received your message. Thank you for reaching out to us!!!!`);
+    })
 });
