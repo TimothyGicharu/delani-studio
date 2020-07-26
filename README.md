@@ -56,7 +56,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 <!-- ADD LINK TO LIVE SITE -->
-### Link to Live Site : 
+### Link to Live Site : https://timothygicharu.github.io/delani-studio/
 
 ### License
 
