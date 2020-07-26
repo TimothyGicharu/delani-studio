@@ -29,10 +29,10 @@ https://github.com/TimothyGicharu/delani-studio.git
 
 ## Behaviour Driven Development
 <!-- MAKE CHANGES -->
-1. Displays the name of the studio and the about section
-2. Details the services offered by the studio company
-3. Show cases what the company does and a portfolio with a list of projects done
-4. Displays a form for submitting questions and suggestions using email
+1. Display the name of the studio and the about section
+2. Detail the services offered by the studio company
+3. Show case what the company does and a portfolio with a list of projects done
+4. Display a form for submitting questions and suggestions using email
 
 ## Development
 <!-- Change -->
