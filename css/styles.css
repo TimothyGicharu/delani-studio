@@ -57,6 +57,10 @@ footer .footer-info{
     font-weight: 900;
 }
 
+.container h2{
+    text-align: center;
+}
+
 
 #design p{
     display: none;
